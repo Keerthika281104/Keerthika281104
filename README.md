@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated and detail-oriented professional with experience in [your field]. I have skills in [key skills, e.g., Java Servlets, database design] and enjoy solving problems and improving systems. I work well in tea
+I am a dedicated and detail-oriented professional with experience in [your field]. I have skills in [key skills, e.g., Java Servlets, database design] and enjoy solving problems and improving systems.
 
 
 ## 🌐 Socials:
